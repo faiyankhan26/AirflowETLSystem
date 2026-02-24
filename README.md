@@ -1,6 +1,7 @@
 # AirflowETLSystem
 
 **AirflowETLSystem** is a fully automated ETL pipeline built with **Apache Airflow** that extracts weather data from APIs, transforms it for analytics, and loads it into a **PostgreSQL** database. This project demonstrates real-world ETL workflows, task orchestration, and pipeline monitoring.
+
 ---
 
 ## 🔹 Key Features
